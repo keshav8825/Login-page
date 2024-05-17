@@ -7,7 +7,7 @@ User authentication
 Responsive design
 Form validation
 
-<h2>#Technologies Used</h2>
+<h2>Technologies Used</h2>
 Frontend:
 
 HTML
