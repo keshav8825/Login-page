@@ -10,6 +10,6 @@ Form validation
 <h2>Technologies Used</h2>
 Frontend:
 
-HTML
-CSS
+HTML,
+CSS,
 JavaScript
