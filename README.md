@@ -8,7 +8,7 @@ Responsive design
 Form validation
 
 <h2>Technologies Used</h2>
-Frontend:
+Frontend:-
 
 HTML,
 CSS,
